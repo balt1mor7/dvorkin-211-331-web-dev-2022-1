@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background: url(images/background.jpg);
+}
+
+
+.container {
+    font-weight: bold;
+    background-color:white;
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    position:fixed;
+    top:40%;
+    left:40%;
+    width:300px;
+}
+
+.vse {
+    margin-top: 5px;
+}
+
+.vse1 {
+    margin-top: 5px;
+    margin-left: 10px;
+}
