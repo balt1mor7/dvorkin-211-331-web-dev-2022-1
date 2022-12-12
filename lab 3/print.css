@@ -1,0 +1,30 @@
+.sidebar,
+.header,
+.footer,
+.scroll-to-top-btn {
+    display: none;
+}
+
+.products-list {
+    justify-content: center;
+    display: block;
+}
+
+.products-category-header {
+    text-align: center;
+    display: block;
+}
+
+.page-content {
+    display: block;
+}
+
+img {
+    display: block;
+    break-inside: avoid;
+}
+
+.control .btn {
+    border: 1px solid black;
+    color: black;
+}
