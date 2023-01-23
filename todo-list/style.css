@@ -1,0 +1,19 @@
+i {
+    font-family: FontAwesome !important;
+}
+
+#done-list .fa-arrow-right {
+    display: none;
+}
+
+#todo-list .fa-arrow-left {
+    display: none;
+}
+
+.actions {
+    visibility: hidden;
+}
+
+.list-group-item:hover .actions {
+    visibility: visible;
+}
